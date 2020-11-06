@@ -2,13 +2,13 @@
 
 ## Backend
 
-It runs on port 3000 or 5000
+It runs on port 5000
 
 ### Steps
 
 Run `npm i` to install all the dependencies
 
-Then run `npm start` to run the project.
+Then run `npm run start` to run the project.
 
 ## Frontend
 
@@ -19,7 +19,7 @@ one if 3000 is not available.
 
 Run `npm i` to install all the dependencies
 
-Then run `npm start` to run the project
+Then run `npm run start` to run the project
 
 
 # DISCLAIMER
