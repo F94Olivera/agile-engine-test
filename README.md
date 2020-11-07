@@ -24,4 +24,4 @@ Then run `npm run start` to run the project
 
 # DISCLAIMER
 
-Didn't have the time to implement any kind of tests nor to make the binaries due to time
+Didn't have the time to implement any kind of tests, to make the binaries nor the queue in the backend due to time
